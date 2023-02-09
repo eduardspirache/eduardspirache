@@ -1,3 +1,5 @@
+<img src="https://github.com/EduardSpirache/eduardspirache/assets/Nelsonquote.png" width="100%" height="280">
+
 ### Hi there 👋
 
 <!--
