@@ -1,4 +1,4 @@
-<img src="https://github.com/eduardspirache/eduardspirache/blob/main/assets/Mandelaquote.png" scale=0.5>
+<img src="https://github.com/eduardspirache/eduardspirache/blob/main/assets/Mandelaquote.png" width=50% height=50%>
 
 ### Hi there 👋
 
