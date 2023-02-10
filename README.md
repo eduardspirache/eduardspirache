@@ -1,5 +1,6 @@
-<img src="https://github.com/eduardspirache/eduardspirache/blob/main/assets/Mandelaquote.png" width=50% height=50%>
-
+<p align="center">
+  <img src="https://github.com/eduardspirache/eduardspirache/blob/main/assets/Mandelaquote.png" width=60% height=60%>
+</p>
 ### Hi there 👋
 
 <!--
