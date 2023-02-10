@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://github.com/eduardspirache/eduardspirache/blob/main/assets/Mandelaquote.png" width=60% height=60%>
 </p>
-### Hi there 👋
+<h1></h1>
+
+
 
 <!--
 **eduardspirache/eduardspirache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
