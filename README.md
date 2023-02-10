@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/eduardspirache/eduardspirache/blob/main/assets/Mandelaquote.png" width=60% height=60%>
+  <img src="https://github.com/eduardspirache/eduardspirache/blob/main/assets/welcome-image.png" width=60% height=60%>
 </p>
 <h1></h1>
 
